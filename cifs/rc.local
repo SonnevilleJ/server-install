@@ -1,0 +1,4 @@
+#!/bin/sh
+
+sudo -u plex /etc/init.d/startup.sh
+
