@@ -6,4 +6,5 @@ sudo apt autoremove -y
 
 ./git/install.sh
 ./unattended-upgrades/install.sh
+./docker-ce/install.sh
 
